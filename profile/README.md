@@ -1,6 +1,7 @@
 ![Carepet Full Logo](https://github.com/Carepet-ID/.github/assets/90903908/00de59e2-0412-48fb-a7da-985d873e7f51)
 
-A brief description of what this project does and who it's for
+The crucial role pets play in providing companionships to humans, particularly dogs. Pets such as dogs are highly susceptible to skin diseases if not properly cared for. Unfortunately, many dog owners may have limited information and knowledge, leading to improper handling. This improper handling can lead to prolonged skin diseases that ultimately cause significant suffering to the dog. Therefore, this application was created to provide proper and quick treatment for skin diseases in dogs.
+
 
 
 ## Documentation
