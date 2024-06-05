@@ -1,5 +1,5 @@
+![Carepet Full Logo](https://github.com/Carepet-ID/.github/assets/90903908/201aa412-c53c-49b8-89e1-2e1ae8f55fe4)
 
-# Carepet ID 
 
 A brief description of what this project does and who it's for
 
@@ -36,3 +36,5 @@ Insert gif or link to demo
 - Cloud Computing Repository    : [carepet-id-backend](https://github.com/Carepet-ID/carepet-id-backend)
 - Mobile Development Repository : [carepet-id-android](https://github.com/Carepet-ID/carepet-id-android)
 
+## Acknowledgment
+This project was developed for fullfill the final capstone project submission at Bangkit 2023.
