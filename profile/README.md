@@ -1,5 +1,4 @@
-![Carepet Full Logo](https://github.com/Carepet-ID/.github/assets/90903908/201aa412-c53c-49b8-89e1-2e1ae8f55fe4)
-
+![Carepet Full Logo](https://github.com/Carepet-ID/.github/assets/90903908/00de59e2-0412-48fb-a7da-985d873e7f51)
 
 A brief description of what this project does and who it's for
 
@@ -38,3 +37,4 @@ Insert gif or link to demo
 
 ## Acknowledgment
 This project was developed for fullfill the final capstone project submission at Bangkit 2023.
+![68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f7231564c35565676682e706e67](https://github.com/Carepet-ID/.github/assets/90903908/154015d4-fc80-444d-80ca-97a38c9e1a6c)
