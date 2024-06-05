@@ -21,9 +21,9 @@ Insert gif or link to demo
 | Name | Student ID     | Path                       |
 | :-------- | :------- | :-------------------------------- |
 | [Zhulfani Faisal Adam](https://github.com/dwiluthfianto)      | M200D4KY1376 | Machine Learning |
-| [Christian Adi Ananta](https://github.com/dwiluthfianto)      | M245D4KY1853 | Machine Learning |
-| [Ezra Abednego](https://github.com/dwiluthfianto)      | M245D4KY3072 | Machine Learning |
-| [Hana Saharning Kanthi ](https://github.com/dwiluthfianto)      | C009D4KX0979 | Cloud Computing |
+| [Christian Adi Ananta](https://github.com/Chr1ztt)      | M245D4KY1853 | Machine Learning |
+| [Ezra Abednego](https://github.com/Ezpzx)      | M245D4KY3072 | Machine Learning |
+| [Hana Saharning Kanthi ](https://github.com/hanaask)      | C009D4KX0979 | Cloud Computing |
 | [Dwi Luthfianto](https://github.com/dwiluthfianto)      | C245D4KY1046 | Cloud Computing |
 | [Muhammad Akmal Iskandar](https://github.com/dwiluthfianto)      | A200D4KY3380 | Mobile Development |
 | [Muhammad Abdul Aziz](https://github.com/dwiluthfianto)      | A200D4KY4512 | Mobile Development |
