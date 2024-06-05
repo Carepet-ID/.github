@@ -36,6 +36,27 @@ Insert gif or link to demo
 - Cloud Computing Repository    : [carepet-id-backend](https://github.com/Carepet-ID/carepet-id-backend)
 - Mobile Development Repository : [carepet-id-android](https://github.com/Carepet-ID/carepet-id-android)
 
+## Technology
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
 ## Acknowledgment
 This project was developed for fullfill the final capstone project submission at Bangkit 2023.
 ![68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f7231564c35565676682e706e67](https://github.com/Carepet-ID/.github/assets/90903908/154015d4-fc80-444d-80ca-97a38c9e1a6c)
