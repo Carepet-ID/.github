@@ -27,7 +27,7 @@ Insert gif or link to demo
 | [Hana Saharning Kanthi ](https://github.com/hanaask)      | C009D4KX0979 | Cloud Computing |
 | [Dwi Luthfianto](https://github.com/dwiluthfianto)      | C245D4KY1046 | Cloud Computing |
 | [Muhammad Akmal Iskandar](https://github.com/Maliskandar)      | A200D4KY3380 | Mobile Development |
-| [Muhammad Abdul Aziz](https://github.com/dwiluthfianto)      | A200D4KY4512 | Mobile Development |
+| [Muhammad Abdul Aziz](https://github.com/mabduls)      | A200D4KY4512 | Mobile Development |
 
 
 ## Resources
